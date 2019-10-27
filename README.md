@@ -16,8 +16,9 @@ You can find below instructions useful:
   3. Go to http://0.0.0.0:3001/
 
 ## Project Screenshots:
-![image1](https://video.udacity-data.com/topher/2018/September/5b967bef_disaster-response-project1/disaster-response-project1.png)
-![image1](https://video.udacity-data.com/topher/2018/September/5b967cda_disaster-response-project2/disaster-response-project2.png)
+![image1](https://github.com/pouyanebrahimi/Disaster-Response-Pipeline/blob/master/images/img.png?raw=true)
+![image2](https://github.com/pouyanebrahimi/Disaster-Response-Pipeline/blob/master/images/img2.png?raw=true)
+![image3](https://github.com/pouyanebrahimi/Disaster-Response-Pipeline/blob/master/images/img3.png?raw=true)
 
 ## Project Motivation
 In the Project, there is a data set containing real messages that were sent during disaster events. We will be creating a machine learning pipeline to categorize these events so that you can send the messages to an appropriate disaster relief agency.
